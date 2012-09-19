@@ -3,7 +3,7 @@ Simple PHP script using [Nexmo][1] and ye [ARRPI][2] to provide an SMS [Talk Lik
 service for all you landlubbers.
 
 ## Setup
-Copy yonder script to a web host that supports PHP, and add ye Nexmo credentials to that there sccript or  
+Copy yonder script to a web host that supports PHP, and add ye Nexmo credentials to that there script or  
 use enviroment variables.
 
 ## Live Demos
