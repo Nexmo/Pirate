@@ -4,7 +4,7 @@ service for all you landlubbers.
 
 ## Setup
 Copy yonder script to a web host that supports PHP, and add ye Nexmo credentials to that there script or  
-use enviroment variables.
+use environment variables.
 
 ## Live Demos
 
