@@ -1,3 +1,5 @@
+_Retained for posterity, but sadly the AARPI is no longer live :(_
+
 # Text Like A Pirate
 Simple PHP script using [Nexmo][1] and ye [ARRPI][2] to provide an SMS [Talk Like A Pirate][3] translation 
 service for all you landlubbers.
